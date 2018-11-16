@@ -17,3 +17,9 @@ function divide(a,b){
   return a / b
 }
 console.log(divide(2,1))
+
+
+function inc(n){
+  n++
+  return n
+}
