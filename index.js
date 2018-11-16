@@ -11,4 +11,6 @@ console.log(subtract(2,1))
 function multiply(a,b){
   return a * b
 }
-console.log(multply(2,1))
+console.log(divide(2,1))
+
+function divide(a,b){
