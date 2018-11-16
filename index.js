@@ -13,4 +13,7 @@ function multiply(a,b){
 }
 console.log(multply(2,1))
 
-function multiply(a,b){
+function divide(a,b){
+  return a / b
+}
+console.log(divide(2,1))
